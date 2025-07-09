@@ -23,8 +23,8 @@ This project analyzes the effectiveness of different VR sickness mitigation tech
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <repo-folder>
+   git clone https://github.com/mshamza28/Cybersickness.git
+   cd Cybersickness
    ```
 
 2. **(Optional) Create a virtual environment:**
