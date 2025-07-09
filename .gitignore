@@ -11,6 +11,7 @@ env/
 output/
 *.png
 *.csv
+!data/*.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
