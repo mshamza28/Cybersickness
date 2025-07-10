@@ -11,7 +11,8 @@ env/
 output/
 *.png
 *.csv
-!data/*.csv
+!data/EEG Data/*.csv
+!data/SSQ/*.csv
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
