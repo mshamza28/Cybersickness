@@ -13,7 +13,7 @@ OUTPUT_DIR = "output/Presence_Results"  # Change this to your desired output dir
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Load the data
-data = pd.read_csv('data/Post_SSQ.csv')
+data = pd.read_csv('data/SSQ/Post_SSQ.csv')
 
 # Create correct mapping dictionary based on the provided VRUSE scale
 presence_mapping = {
