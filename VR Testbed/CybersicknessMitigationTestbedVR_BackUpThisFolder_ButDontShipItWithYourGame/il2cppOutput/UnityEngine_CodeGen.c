@@ -1,35 +1,3 @@
-﻿#include "pch-c.h"
-#ifndef _MSC_VER
-# include <alloca.h>
-#else
-# include <malloc.h>
-#endif
-
-
-#include "codegen/il2cpp-codegen-metadata.h"
-
-
-
-
-
-IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_CodeGenModule;
-const Il2CppCodeGenModule g_UnityEngine_CodeGenModule = 
-{
-	"UnityEngine.dll",
-	0,
-	NULL,
-	0,
-	NULL,
-	NULL,
-	0,
-	NULL,
-	0,
-	NULL,
-	0,
-	NULL,
-	NULL,
-	NULL, // module initializer,
-	NULL,
-	NULL,
-	NULL,
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c5e20fdc758fe706b8b36de7c22a1cf3ac2830c654f3ee1e89e2bd2307f127
+size 419

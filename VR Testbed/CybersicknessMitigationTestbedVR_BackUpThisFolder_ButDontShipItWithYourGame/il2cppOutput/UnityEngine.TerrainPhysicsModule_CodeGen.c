@@ -1,35 +1,3 @@
-﻿#include "pch-c.h"
-#ifndef _MSC_VER
-# include <alloca.h>
-#else
-# include <malloc.h>
-#endif
-
-
-#include "codegen/il2cpp-codegen-metadata.h"
-
-
-
-
-
-IL2CPP_EXTERN_C const Il2CppCodeGenModule g_UnityEngine_TerrainPhysicsModule_CodeGenModule;
-const Il2CppCodeGenModule g_UnityEngine_TerrainPhysicsModule_CodeGenModule = 
-{
-	"UnityEngine.TerrainPhysicsModule.dll",
-	0,
-	NULL,
-	0,
-	NULL,
-	NULL,
-	0,
-	NULL,
-	0,
-	NULL,
-	0,
-	NULL,
-	NULL,
-	NULL, // module initializer,
-	NULL,
-	NULL,
-	NULL,
-};
+version https://git-lfs.github.com/spec/v1
+oid sha256:df09fd42d12f195843c5f6897a5d47bf1b297a37a8bc6dad32e535b6421efc92
+size 482
