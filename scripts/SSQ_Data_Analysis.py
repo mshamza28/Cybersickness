@@ -14,7 +14,7 @@ from typing import Optional, Dict, List, Tuple
 
 # Configuration
 CONFIG = {
-    'file_path': 'data/Post_SSQ.csv',
+    'file_path': 'data/SSQ/Post_SSQ.csv',
     'scenarios': ['Tower Defense', 'Roller Coaster'],
     'techniques': [
         'Baseline (No Mitigation Technique)',
